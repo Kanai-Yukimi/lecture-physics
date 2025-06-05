@@ -13,7 +13,7 @@ body {
 
 /* タイトル */
 h1 {
-  color: #c75c8d;
+  color: #c75c8d !important;;
   margin-bottom: 1rem;
   border-bottom: 2px solid #ccc;
   padding-bottom: 0.5rem;
