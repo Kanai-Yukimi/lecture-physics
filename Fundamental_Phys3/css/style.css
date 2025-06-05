@@ -13,12 +13,11 @@ body {
 
 /* タイトル */
 h1 {
-  color: #003366;
+  color: #c75c8d;
   margin-bottom: 1rem;
   border-bottom: 2px solid #ccc;
   padding-bottom: 0.5rem;
 }
-
 /* リンクリスト */
 ul.custom-list {
   padding-left: 1rem;
@@ -30,10 +29,10 @@ ul.custom-list li {
 
 /* リンクの色調整 */
 a {
-  color: #0056b3;
+  color: #5c80bc;
 }
 
 a:hover {
   text-decoration: underline;
-  color: #004080;
+  color: #bc5c8e;
 }
