@@ -10,14 +10,16 @@ body {
   background-color: #f9f9f9;
   padding-top: 2rem;
 }
-
 /* タイトル */
 h1 {
-  color: #c75c8d !important;;
+  color: #c75c8d ;
   margin-bottom: 1rem;
   border-bottom: 2px solid #ccc;
   padding-bottom: 0.5rem;
 }
+h1.mt-4 {
+    color: #c75c8d;
+  }
 /* リンクリスト */
 ul.custom-list {
   padding-left: 1rem;
