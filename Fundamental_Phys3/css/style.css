@@ -1,17 +1,16 @@
-/* ページ全体 */
-body {
-  font-family: 'Helvetica Neue', sans-serif;
-  background-color: #f9f9f9;
-  padding-top: 2rem;
-}
-
 /* フォント */
 .kosugi-maru-regular {
     font-family: "Kosugi Maru", sans-serif;
     font-weight: 400;
     font-style: normal;
   }
-  
+/* ページ全体 */
+body {
+    font-family: "Kosugi Maru", sans-serif;
+  background-color: #f9f9f9;
+  padding-top: 2rem;
+}
+
 /* タイトル */
 h1 {
   color: #003366;
