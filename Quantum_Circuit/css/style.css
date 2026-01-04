@@ -1,0 +1,41 @@
+/* フォント */
+.kosugi-maru-regular {
+    font-family: "Kosugi Maru", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+/* ページ全体 */
+body {
+    font-family: "Kosugi Maru", sans-serif;
+  background-color: #f9f9f9;
+  padding-top: 2rem;
+}
+/* タイトル */
+h1 {
+  color: #c75c8d ;
+  margin-bottom: 1rem;
+  border-bottom: 2px solid #ccc;
+  padding-bottom: 0.5rem;
+}
+h1.mt-4 {
+    color: #c75c8d;
+  }
+/* リンクリスト */
+ul.custom-list {
+  padding-left: 1rem;
+}
+
+ul.custom-list li {
+  margin-bottom: 0.5rem;
+}
+
+/* リンクの色調整 */
+a {
+  color: #5c80bc;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #bc5c8e;
+}
+/* リンクの色調整 */
